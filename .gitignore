@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore local environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+is i have to paste this inside of gitignore file ?
